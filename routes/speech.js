@@ -1,5 +1,6 @@
 const express = require("express");
 const router = express.Router();
+const path = require("path");
 //Getting All
 router.get("/speech", async (req, res) => {
   try {
@@ -63,7 +64,7 @@ router.get("/speech/transcription", async (req, res) => {
   try {
     let file = require("fs");
     let transcription = file.readFileSync(
-      "E:\\API\\server\\file\\2020-09-1114-54-19608.json",
+      path.resolve(__dirname, "2020-09-1114-54-19608.json"),
       "utf-8"
     );
     let tran = JSON.parse(transcription);
@@ -86,7 +87,7 @@ router.post("/speech/speaker", async (req, res) => {
   try {
     let file = require("fs");
     let transcription = file.readFileSync(
-      "E:\\API\\server\\file\\2020-09-1114-54-19608_sp.json",
+      path.resolve(__dirname, "2020-09-1114-54-19608_sp.json"),
       "utf-8"
     );
     let tran = JSON.parse(transcription);

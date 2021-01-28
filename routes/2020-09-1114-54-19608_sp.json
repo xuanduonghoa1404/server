@@ -1,0 +1,439 @@
+{
+  "createdTime": 1587188899789, 
+  "fullTranscript": "", 
+  "transcriptInfoDtos": [
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "59.0", 
+      "reliabilityText": "", 
+      "sequences": 1, 
+      "text": "", 
+      "timeEnd": 10, 
+      "timeStart": 0
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "88.0", 
+      "reliabilityText": "", 
+      "sequences": 2, 
+      "text": "", 
+      "timeEnd": 15, 
+      "timeStart": 10
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "50.0", 
+      "reliabilityText": "", 
+      "sequences": 3, 
+      "text": "", 
+      "timeEnd": 20, 
+      "timeStart": 15
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "61.0", 
+      "reliabilityText": "", 
+      "sequences": 4, 
+      "text": "", 
+      "timeEnd": 25, 
+      "timeStart": 20
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "76.06", 
+      "reliabilityText": "", 
+      "sequences": 5, 
+      "text": "", 
+      "timeEnd": 110, 
+      "timeStart": 25
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "56.0", 
+      "reliabilityText": "", 
+      "sequences": 6, 
+      "text": "", 
+      "timeEnd": 115, 
+      "timeStart": 110
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "79.25", 
+      "reliabilityText": "", 
+      "sequences": 7, 
+      "text": "", 
+      "timeEnd": 135, 
+      "timeStart": 115
+    }, 
+    {
+      "idSpeaker": "d34d7db8257f72149acc06bc3b4a8726a24e4130ab395348f74fb41b556c4bcd", 
+      "reliabilitySpeaker": "49.0", 
+      "reliabilityText": "", 
+      "sequences": 8, 
+      "text": "", 
+      "timeEnd": 140, 
+      "timeStart": 135
+    }, 
+    {
+      "idSpeaker": "edabc11183080269a5cd5a96e42891f9a3a3633c73a14bcabec7c5fabb0ea614", 
+      "reliabilitySpeaker": "77.0", 
+      "reliabilityText": "", 
+      "sequences": 9, 
+      "text": "", 
+      "timeEnd": 145, 
+      "timeStart": 140
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "81.0", 
+      "reliabilityText": "", 
+      "sequences": 10, 
+      "text": "", 
+      "timeEnd": 195, 
+      "timeStart": 145
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "48.0", 
+      "reliabilityText": "", 
+      "sequences": 11, 
+      "text": "", 
+      "timeEnd": 200, 
+      "timeStart": 195
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "88.38", 
+      "reliabilityText": "", 
+      "sequences": 12, 
+      "text": "", 
+      "timeEnd": 240, 
+      "timeStart": 200
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "59.0", 
+      "reliabilityText": "", 
+      "sequences": 13, 
+      "text": "", 
+      "timeEnd": 245, 
+      "timeStart": 240
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "91.71", 
+      "reliabilityText": "", 
+      "sequences": 14, 
+      "text": "", 
+      "timeEnd": 330, 
+      "timeStart": 245
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "50.0", 
+      "reliabilityText": "", 
+      "sequences": 15, 
+      "text": "", 
+      "timeEnd": 335, 
+      "timeStart": 330
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "98.33", 
+      "reliabilityText": "", 
+      "sequences": 16, 
+      "text": "", 
+      "timeEnd": 350, 
+      "timeStart": 335
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "35.0", 
+      "reliabilityText": "", 
+      "sequences": 17, 
+      "text": "", 
+      "timeEnd": 355, 
+      "timeStart": 350
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "97.0", 
+      "reliabilityText": "", 
+      "sequences": 18, 
+      "text": "", 
+      "timeEnd": 360, 
+      "timeStart": 355
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "66.0", 
+      "reliabilityText": "", 
+      "sequences": 19, 
+      "text": "", 
+      "timeEnd": 365, 
+      "timeStart": 360
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "100.0", 
+      "reliabilityText": "", 
+      "sequences": 20, 
+      "text": "", 
+      "timeEnd": 370, 
+      "timeStart": 365
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "63.0", 
+      "reliabilityText": "", 
+      "sequences": 21, 
+      "text": "", 
+      "timeEnd": 375, 
+      "timeStart": 370
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "83.67", 
+      "reliabilityText": "", 
+      "sequences": 22, 
+      "text": "", 
+      "timeEnd": 390, 
+      "timeStart": 375
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "81.0", 
+      "reliabilityText": "", 
+      "sequences": 23, 
+      "text": "", 
+      "timeEnd": 395, 
+      "timeStart": 390
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "97.5", 
+      "reliabilityText": "", 
+      "sequences": 24, 
+      "text": "", 
+      "timeEnd": 405, 
+      "timeStart": 395
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "100.0", 
+      "reliabilityText": "", 
+      "sequences": 25, 
+      "text": "", 
+      "timeEnd": 410, 
+      "timeStart": 405
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "62.0", 
+      "reliabilityText": "", 
+      "sequences": 26, 
+      "text": "", 
+      "timeEnd": 420, 
+      "timeStart": 410
+    }, 
+    {
+      "idSpeaker": "7e90b3d91e444eddb83b80b877a306109af7e6ae7fe0b83947af1e273e580804", 
+      "reliabilitySpeaker": "98.0", 
+      "reliabilityText": "", 
+      "sequences": 27, 
+      "text": "", 
+      "timeEnd": 425, 
+      "timeStart": 420
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "58.5", 
+      "reliabilityText": "", 
+      "sequences": 28, 
+      "text": "", 
+      "timeEnd": 435, 
+      "timeStart": 425
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "96.0", 
+      "reliabilityText": "", 
+      "sequences": 29, 
+      "text": "", 
+      "timeEnd": 440, 
+      "timeStart": 435
+    }, 
+    {
+      "idSpeaker": "49e21d32afadd96fc184ac4984463df23ed3ed8fc35a5e10e1d034c8fe6ba9ff", 
+      "reliabilitySpeaker": "58.0", 
+      "reliabilityText": "", 
+      "sequences": 30, 
+      "text": "", 
+      "timeEnd": 445, 
+      "timeStart": 440
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "98.5", 
+      "reliabilityText": "", 
+      "sequences": 31, 
+      "text": "", 
+      "timeEnd": 455, 
+      "timeStart": 445
+    }, 
+    {
+      "idSpeaker": "d34d7db8257f72149acc06bc3b4a8726a24e4130ab395348f74fb41b556c4bcd", 
+      "reliabilitySpeaker": "84.0", 
+      "reliabilityText": "", 
+      "sequences": 32, 
+      "text": "", 
+      "timeEnd": 460, 
+      "timeStart": 455
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "100.0", 
+      "reliabilityText": "", 
+      "sequences": 33, 
+      "text": "", 
+      "timeEnd": 465, 
+      "timeStart": 460
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "68.0", 
+      "reliabilityText": "", 
+      "sequences": 34, 
+      "text": "", 
+      "timeEnd": 470, 
+      "timeStart": 465
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "78.75", 
+      "reliabilityText": "", 
+      "sequences": 35, 
+      "text": "", 
+      "timeEnd": 490, 
+      "timeStart": 470
+    }, 
+    {
+      "idSpeaker": "d34d7db8257f72149acc06bc3b4a8726a24e4130ab395348f74fb41b556c4bcd", 
+      "reliabilitySpeaker": "70.5", 
+      "reliabilityText": "", 
+      "sequences": 36, 
+      "text": "", 
+      "timeEnd": 500, 
+      "timeStart": 490
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "54.0", 
+      "reliabilityText": "", 
+      "sequences": 37, 
+      "text": "", 
+      "timeEnd": 505, 
+      "timeStart": 500
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "94.8", 
+      "reliabilityText": "", 
+      "sequences": 38, 
+      "text": "", 
+      "timeEnd": 530, 
+      "timeStart": 505
+    }, 
+    {
+      "idSpeaker": "d34d7db8257f72149acc06bc3b4a8726a24e4130ab395348f74fb41b556c4bcd", 
+      "reliabilitySpeaker": "58.0", 
+      "reliabilityText": "", 
+      "sequences": 39, 
+      "text": "", 
+      "timeEnd": 535, 
+      "timeStart": 530
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "99.0", 
+      "reliabilityText": "", 
+      "sequences": 40, 
+      "text": "", 
+      "timeEnd": 545, 
+      "timeStart": 535
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "48.0", 
+      "reliabilityText": "", 
+      "sequences": 41, 
+      "text": "", 
+      "timeEnd": 550, 
+      "timeStart": 545
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "98.0", 
+      "reliabilityText": "", 
+      "sequences": 42, 
+      "text": "", 
+      "timeEnd": 585, 
+      "timeStart": 550
+    }, 
+    {
+      "idSpeaker": "d37b258e081f1aab951cdd5c76833ec490363063643d68b8e4d1bbf71c06007a", 
+      "reliabilitySpeaker": "95.0", 
+      "reliabilityText": "", 
+      "sequences": 43, 
+      "text": "", 
+      "timeEnd": 590, 
+      "timeStart": 585
+    }, 
+    {
+      "idSpeaker": "579d42705947bdc1e5a1d90db0ef3809f0b8065082d93c53fa7b5be5e31226e0", 
+      "reliabilitySpeaker": "79.0", 
+      "reliabilityText": "", 
+      "sequences": 44, 
+      "text": "", 
+      "timeEnd": 600, 
+      "timeStart": 590
+    }, 
+    {
+      "idSpeaker": "c98b566b8ccbdebe7f59372ebdcad91b33cdf1d53397f7fcf183ec00776e937c", 
+      "reliabilitySpeaker": "74.0", 
+      "reliabilityText": "", 
+      "sequences": 45, 
+      "text": "", 
+      "timeEnd": 605, 
+      "timeStart": 600
+    }, 
+    {
+      "idSpeaker": "d34d7db8257f72149acc06bc3b4a8726a24e4130ab395348f74fb41b556c4bcd", 
+      "reliabilitySpeaker": "99.81", 
+      "reliabilityText": "", 
+      "sequences": 46, 
+      "text": "", 
+      "timeEnd": 790, 
+      "timeStart": 605
+    }, 
+    {
+      "idSpeaker": "c59e6f281ae37beb438d0bc5220c012441aa956b8fbdc97faca868dbaba65e89", 
+      "reliabilitySpeaker": "37.0", 
+      "reliabilityText": "", 
+      "sequences": 47, 
+      "text": "", 
+      "timeEnd": 795, 
+      "timeStart": 790
+    }, 
+    {
+      "idSpeaker": "7e90b3d91e444eddb83b80b877a306109af7e6ae7fe0b83947af1e273e580804", 
+      "reliabilitySpeaker": "92.0", 
+      "reliabilityText": "", 
+      "sequences": 48, 
+      "text": "", 
+      "timeEnd": 800, 
+      "timeStart": 795
+    }
+  ], 
+  "update_time": 1587188899789
+}
