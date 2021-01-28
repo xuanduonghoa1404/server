@@ -1,0 +1,32 @@
+POST http://localhost:4000/api/auth/login
+Content-Type: application/json
+
+{
+    "email": "xuanduonghoa1404@gmail.com",
+    "password": "12345678"
+}
+
+###
+POST http://localhost:4000/api/speech/token
+Content-Type: application/json 
+
+{"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Inh1YW5kdW9uZ2hvYTE0MDRAZ21haWwuY29tIiwicm9sZSI6ImFkbWluIiwibmFtZSI6IkhvYSBYdcOibiBExrDGoW5nIiwiaWQiOiI1ZmQ2NTBiMTU2ZDk0YjJkNmM4ZTUxZGEiLCJpYXQiOjE2MTE3NDQzMzl9.0hSvwcH3PYLwApUybjGiCPKAtaGRdQcGxHSGTalKFVk"}
+###
+POST http://localhost:4000/api/speech/createMeetingUploadURL
+###
+GET http://localhost:4000/api/speech
+###
+POST http://localhost:4000/api/speech/meeting
+###
+GET http://localhost:4000/api/speech/transcription
+###
+GET http://localhost:4000/api/speech/meeting
+###
+POST http://localhost:4000/api/speech/speaker
+###
+
+
+
+
+
+
