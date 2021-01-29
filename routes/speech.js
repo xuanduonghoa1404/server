@@ -35,7 +35,7 @@ router.post("/speech/createMeetingUploadURL", async (req, res) => {
   try {
     // let token = req.header.token;
     res.status(200).json([
-      "http://localhost:4000/api/speech",
+      "https://api-speech.herokuapp.com/api/speech",
       {
         bucket: "meeting",
         key: "010819/test@vais.vn/LxTeEJabUZ9i4pZT4KRrEo.wav",
